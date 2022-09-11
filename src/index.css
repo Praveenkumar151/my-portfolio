@@ -1,0 +1,15 @@
+html{
+  font-size: 62.5%;
+}
+
+
+body {
+  margin: 0;
+  /*font: 300 11px/1.4 'Helvetica Neue',;*/
+  color: rgba(65, 60, 60, 0.918);
+  background-color: rgb(4, 37, 87);
+  
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

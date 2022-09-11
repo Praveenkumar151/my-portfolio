@@ -1,0 +1,50 @@
+
+.Nav-bar{
+  background-color: #181818;
+  width: 200px;
+  //height: auto;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+  min-height: 500px;
+  height: 1080px;
+  
+}
+/*.logo{
+  display: block;
+  padding: 8px 0;*/
+
+  img{
+    display: block;
+    margin: 8px auto;
+    width: 100px;
+    height: auto;
+    margin-bottom: 50px;
+  }
+  #side{
+    display: block;
+    padding: 10px auto;
+    height: 100px;
+    width: auto;
+    text-align: center;
+    font-family: 'Cool Vetica';
+    font-size: 30px;
+    color: rgb(0, 140, 255);
+    padding: 10px;
+    text-decoration: none;
+    float: none;
+    transition: 75ms width;
+    
+    transition-property: inherit;
+  }
+  #side:hover {
+    background-color: rgb(0, 140, 255);
+    color: #181818;
+    width: 120%;
+    border-radius: 60px 24px;
+  }
+  h4{
+    text-decoration: none;
+    color: rgb(30, 221, 255);
+  }
+//}
